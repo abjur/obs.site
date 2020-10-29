@@ -295,7 +295,7 @@ a {
 #rStudioHeader .productName {
   font-family: "Source Code Pro", monospace;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 30px;
   color: inherit;
   white-space: nowrap;
   -webkit-transition-property: font-size;
