@@ -1,0 +1,14 @@
+resources:
+- url: https://r.abj.org.br
+  title: Site
+  icon: fa-university
+  icon_pack: fas
+  what: |
+    Site institucional da ABJ.
+
+- url: https://blog.abj.org.br
+  title: Blog
+  icon: fa-splotch
+  icon_pack: fas
+  what: |
+    Blog da ABJ, onde fazemos análises adicionais.

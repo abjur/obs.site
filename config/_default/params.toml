@@ -1,0 +1,77 @@
+# Description for social sharing and search engines.
+description = "Projetos de Observatórios da Associação Brasileira de Jurimetria."
+
+# Default image for social sharing and search engines. Place image in `static/images/` folder and specify image name here.
+sharing_image = "logo-home.png"
+twitter_image = "logo-home.png"
+
+# Link custom CSS and JS assets
+#   (relative to /static/css and /static/js respectively)
+custom_css = ["tm.css"]
+custom_js = ["tm.js"]
+
+# Define base hex url for index page (where the stickers link out to)
+hex_base_url = "tidymodels.github.io/"
+hex_ext = "svg"
+
+# Define "news" as both articles and events
+mainSections = ["articles", "events"]
+
+# options for highlight.js (version, additional languages, and theme)
+disable_highlightjs = "true"
+highlightjsVersion = "9.11.0"
+highlightjsCDN = "//cdn.bootcss.com"
+highlightjsLang = ["r", "yaml"]
+highlightjsTheme = "github"
+
+MathJaxCDN = "//cdn.bootcss.com"
+MathJaxVersion = "2.7.1"
+
+[footer]
+    github_url = ""
+    twitter_url = ""
+    support = "Um site da "
+
+# leave blank in quotes for the default = true
+# to turn off, set = false (no quotes)
+[authors]
+    show_list = "" # on list page, default is true
+    show_single = "" # on single pages, default is true
+    show_latest = "" # on bio, default is true
+    label_latest = "" # on bio, default is "Latest"
+
+# leave blank in quotes for the default = true
+# to turn off, set = false (no quotes)
+[events]
+    link_archive = "" # default is true
+
+# customize your site colors
+# these colors get applied by layouts/partials/custom-site.css
+# then, the layouts/partials/head_includes.html uses that partial
+# the partial head_includes.html is called in the partial header.html everywhere!
+[colors]
+    text = "#404040" # off-black
+    # Links
+    link = "#21908C" # main accent
+    link_hover = "#7AD151" #lighter
+    # Footer
+    footer_primary = "#41448740"
+    footer_text = "#333"
+    # Backgrounds
+    background = "#ffffff"
+    home_section_odd = "#ffffff"
+    home_section_even = "#fcfcfc"
+    # Menu
+    menu_primary = "#ffffff"
+    menu_text = "#333"
+    menu_text_active = "#21908C"
+    menu_text_current = "#7AD151"
+    menu_decorate_current = "none"
+    menu_title = "#414487" # Tidymodels
+    menu_title_active = "#00000075"
+    menu_box_hover = "white"
+    menu_box_active = "#fcfcfc"
+    # Tables
+    header_background = "black"
+    table_row_even = "#fcfcfc"
+    table_row_odd = "#1a162d10"
