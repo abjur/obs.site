@@ -293,7 +293,7 @@ a {
   align-items: flex-end; }
 
 #rStudioHeader .productName {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Lato", monospace;
   font-weight: normal;
   font-size: 30px;
   color: inherit;
@@ -443,7 +443,7 @@ a {
   box-sizing: border-box;
   height: 92px; }
   #rStudioFooter.band {
-    background-color: #75aadb;
+    background-color: #fff;
     color: #fff;
     padding: 30px 5%;
     font-weight: normal;
@@ -461,7 +461,7 @@ a {
     line-height: 20px; }
     #rStudioFooter .bandContent #copyright {
       flex-shrink: 5;
-      color: #e3eef8; }
+      color: #fff; }
       #rStudioFooter .bandContent #copyright a {
         color: #fff; }
     #rStudioFooter .bandContent #logos {
@@ -950,7 +950,7 @@ ol {
   list-style: decimal outside none; }
 
 pre, code {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Lato", monospace;
   background-color: #f8f8f8 !important;
   font-size: 14px; }
 

@@ -645,8 +645,8 @@ sup {
 	-moz-box-shadow: none !important;
 	-webkit-box-shadow: none !important;
 	box-shadow: none !important;
-	-webkit-transform: rotate(359deg);
-	transform: rotate(359deg);
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg);
 	float: left;
 	margin: 60px 40px 40px 40px;
 }
