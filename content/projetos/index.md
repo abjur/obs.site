@@ -28,7 +28,7 @@ title: Projetos ativos
   <div class="package">
     <div class="package-info">
       <h3><a href="https://abjur.github.com/obsRJRJ/"> Recuperações Judiciais - Rio de Janeiro </a></h3>
-      <p>Replicamos a pesquisa de São Paulo mas com as recuperações judiciais do Rio de Janeiro.<a href="https://abjur.github.com/obsRJRJ" aria-hidden="true">Acessar projeto ...</a></p>
+      <p>Replicamos a pesquisa de São Paulo mas com as recuperações judiciais do Rio de Janeiro. <a href="https://abjur.github.com/obsRJRJ" aria-hidden="true">Acessar projeto ...</a></p>
     </div>
   </div>  
   
@@ -43,6 +43,13 @@ title: Projetos ativos
     <div class="package-info">
       <h3><a href="https://abjur.github.com/obsoc"> Societário </a></h3>
       <p>Analisamos milhares de decisões no segundo grau sobre discussões societárias das empresas em São Paulo. <a href="https://abjur.github.com/obsoc" aria-hidden="true">Acessar projeto ...</a></p>
+    </div>
+  </div> 
+  
+  <div class="package">
+    <div class="package-info">
+      <h3><a href="https://abjur.github.com/obsRJRS"> Recuperações Judiciais - Rio Grande do Sul </a></h3>
+      <p>Replicamos a pesquisa de São Paulo mas com as recuperações judiciais do Rio Grande do Sul. <a href="https://abjur.github.com/obsRJRS" aria-hidden="true">Acessar projeto ...</a></p>
     </div>
   </div> 
 

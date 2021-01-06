@@ -92,6 +92,24 @@ Os observatórios da ABJ não seriam possíveis sem nossos patrocinadores. Os pr
 
 </div>
 
+### Observatório da Insolvência - Rio Grande do Sul
+
+<div class="splitColumns">
+
+<div class="column50">
+
+<a href="" target="_blank"><img class="patrocinador" src="/images/patrocinadores/terranova.png"  style="-webkit-filter: invert(1);filter: invert(1);"></a>
+
+</div>
+
+<div class="column50">
+
+<a href="" target="_blank"><img class="patrocinador" src="/images/patrocinadores/terranova.png"></a>
+
+</div>
+
+</div>
+
 ### Observatório Societário
 
 <a href="https://www.pucsp.br/home" target="_blank"><img class="patrocinador" src="/images/patrocinadores/pucsp.png"></a>
