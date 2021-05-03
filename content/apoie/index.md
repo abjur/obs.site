@@ -37,7 +37,7 @@ Os observatórios da ABJ não seriam possíveis sem nossos patrocinadores. Os pr
 </div>
 
 
-### Observatório da CVM
+### Observatório do Mercado de Capitais
 
 
 <div class="splitColumns">
@@ -59,7 +59,7 @@ Os observatórios da ABJ não seriam possíveis sem nossos patrocinadores. Os pr
 
 <a href="http://www.pinheironeto.com.br" target="_blank"><img class="patrocinador" src="/images/patrocinadores/pna.png"></a>
 
-<a href="https://yazbek.adv.br/pt/" target="_blank"><img class="patrocinador" src="/images/patrocinadores/yazbek.png"></a>
+<a href="https://yazbek.adv.br/pt/" target="_blank"><img class="patrocinador" src="https://abjur.github.io/obsMC/articles/images/yazbek.svg" style="-webkit-filter: invert(1);filter: invert(1);"></a>
 
 </div>
 
