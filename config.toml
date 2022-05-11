@@ -9,7 +9,7 @@ baseurl = "https://obs.abj.org.br/"
 theme = "hugo-tourmaline"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-115746799-1"
+googleAnalytics = "G-QWW070GF7G"
 
 relativeurls = false
 languageCode = "pt-BR"
